@@ -1,0 +1,12 @@
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\obj\Debug\netcoreapp3.0\XmlParsingLesson.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\obj\Debug\netcoreapp3.0\XmlParsingLesson.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\obj\Debug\netcoreapp3.0\XmlParsingLesson.AssemblyInfo.cs
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\netcoreapp3.0\XmlParsingLesson.exe
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\netcoreapp3.0\countries.xml
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\netcoreapp3.0\XmlParsingLesson.deps.json
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\netcoreapp3.0\XmlParsingLesson.runtimeconfig.json
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\netcoreapp3.0\XmlParsingLesson.runtimeconfig.dev.json
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\netcoreapp3.0\XmlParsingLesson.dll
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\netcoreapp3.0\XmlParsingLesson.pdb
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\obj\Debug\netcoreapp3.0\XmlParsingLesson.dll
+C:\Users\МакишевЕ\source\repos\XmlParsingLesson\XmlParsingLesson\obj\Debug\netcoreapp3.0\XmlParsingLesson.pdb

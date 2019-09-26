@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<country>
+  <id>1</id>
+  <id>USSR</id>
+  <id>
+    <city>
+      <id>1</id>
+      <name>Pavlodar</name>
+      <population type="thousand">335</population>
+    </city>
+    <city>
+      <id>2</id>
+      <name>Aqmola</name>
+      <population type="millions">1,2</population>
+    </city>
+  </id>
+</country>
